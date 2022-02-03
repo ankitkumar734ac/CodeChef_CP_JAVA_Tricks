@@ -4,9 +4,10 @@
 ```
 import java.io.*;
 import java.util.*;
+import java.lang.*;
  
  
-public class Main{
+public class Codechef{
    public static void main(String[] args) {
       MyScanner sc = new MyScanner();
       out = new PrintWriter(new BufferedOutputStream(System.out));
